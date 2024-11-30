@@ -1,0 +1,47 @@
+h4 {
+    font-size: 15px;
+    font-family: Helvetica;
+    font-style: italic;
+    color: azure;
+    padding: 5px 5px;
+    margin-top: 8px;
+}
+
+p {
+    line-height: 10px;
+    padding: 20px 3px;
+    color: blanchedalmond;
+}
+
+
+.pic {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+
+}
+
+div.producto {
+
+    background-color: rgb(2, 2, 2);
+    width:350px;
+    padding: 40px;
+    margin: 50px 20px 20px 20px;
+    border: 1px solid;
+    border-radius: 20px;
+    box-shadow: 6px 0 7px whitesmoke;
+}
+
+.botton{
+    background-color: aliceblue;
+    display: inline;
+    padding: 2px 3px;
+    text-decoration: none;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+}
